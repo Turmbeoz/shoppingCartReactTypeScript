@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Book Trilogy",
+        "price": 24.99,
+        "imgURL": "/imgs/threebody.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Playstation 5",
+        "price": 599,
+        "imgURL": "/imgs/ps5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Xbox Series X",
+        "price": 499,
+        "imgURL": "/imgs/xbox.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Puzzle Box",
+        "price": 0.99,
+        "imgURL": "/imgs/puzzlebox.jpg"
+    }
+]
